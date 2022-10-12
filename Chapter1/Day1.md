@@ -27,7 +27,7 @@ The difference between global and module styling is that global styling is appli
 #### QUESTION 3: 
 Take a screenshot of the running application and upload it to your quest submissions.
 #### ANSWER:
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day1a-Nextjs-Project-Runningng.png" width="75%" height="75%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day1a-Nextjs-Project-Running.png" width="75%" height="75%">
 
 <hr>
 
