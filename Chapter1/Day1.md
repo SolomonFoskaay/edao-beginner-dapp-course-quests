@@ -1,20 +1,38 @@
 ## CHAPTER 1
 
 ### DAY 1
-You are free to answer these questions in your own language of choice. And no, I don't mean computer programming language, haha.
+For your quest today, you have one task:
+
 
 #### QUESTION 1: 
-Explain what the Blockchain is in your own words. You can read this to help you, but you don't have to: https://www.investopedia.com/terms/b/blockchain.asp
+What is the difference between frontend and backend? Can you provide a real life example? Note: You can't use the one in this chapter.
 #### ANSWER: 
-Blockchain is a decentralized database that allows storage and retrieval of data.
+The difference between frontend and backend is that frontend deals with user-facing aspect of a website/dApp which includes how the web pages are displayed, styling, user interface and interactivity. WHILE backend deals with behind the scene of frontend which usually is about the database, API and more that handle, save and manipulates data shown to user that makes the frontend function properly.
+
+Example:
+
+Frontend - this github repo you are reading now is the frontend
+
+Backend - this is databases, API and more that stores this quests answers and make it available for you to see when request in the frontend.
+
+
 
 #### QUESTION 2: 
-Explain what a Smart Contract is. You can read this to help you, but you don't have to: https://www.ibm.com/topics/smart-contracts
+What is the difference between global styling and module styling?
 #### ANSWER: 
-Smart Contract is a piece of code that run in a Blockchain
+The difference between global and module styling is that global styling is applied automatically to every aspect and pages of the website WHILE module styling is not and only apply to specific web pages where it is imported and applied to.
+
+
 
 #### QUESTION 3: 
-Explain the difference between a script and a transaction.
+Take a screenshot of the running application and upload it to your quest submissions.
 #### ANSWER:
-A Script is use to access information from the Blockchain. It's free.
-A Transaction involves making changes and storing information into the Blockchain. It's not free and requires paying transaction/gas fees.
+
+
+
+
+#### QUESTION 4: 
+Take a screenshot of the running application and upload it to your quest submissions.
+Upload the link to your public GitHub repository.
+#### ANSWER:
+A 
