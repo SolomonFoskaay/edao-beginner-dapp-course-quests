@@ -1,4 +1,4 @@
-## CHAPTER 1
+## CHAPTER 2
 
 ### DAY 1
 For your quest today, you have one task:
