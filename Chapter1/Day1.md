@@ -15,24 +15,25 @@ Frontend - this github repo you are reading now is the frontend
 
 Backend - this is databases, API and more that stores this quests answers and make it available for you to see when request in the frontend.
 
-
+<hr>
 
 #### QUESTION 2: 
 What is the difference between global styling and module styling?
 #### ANSWER: 
 The difference between global and module styling is that global styling is applied automatically to every aspect and pages of the website WHILE module styling is not and only apply to specific web pages where it is imported and applied to.
 
-
+<hr>
 
 #### QUESTION 3: 
 Take a screenshot of the running application and upload it to your quest submissions.
 #### ANSWER:
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day1a-Nextjs-Project-Runningng.png" width="75%" height="75%">
 
-
+<hr>
 
 
 #### QUESTION 4: 
 Take a screenshot of the running application and upload it to your quest submissions.
 Upload the link to your public GitHub repository.
 #### ANSWER:
-A 
+<a href=https://github.com/SolomonFoskaay/beginner-emerald-dapp>https://github.com/SolomonFoskaay/beginner-emerald-dapp</a>
