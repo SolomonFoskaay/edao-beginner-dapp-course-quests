@@ -13,7 +13,7 @@ Example:
 
 Frontend - this github repo you are reading now is the frontend
 
-Backend - this is databases, API and more that stores this quests answers and make it available for you to see when request in the frontend.
+Backend - this is databases, API and more that stores this quests answers and make it available for you to see when you requested it via the frontend.
 
 <hr>
 
