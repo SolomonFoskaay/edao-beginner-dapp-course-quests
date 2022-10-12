@@ -33,7 +33,6 @@ Take a screenshot of the running application and upload it to your quest submiss
 
 
 #### QUESTION 4: 
-Take a screenshot of the running application and upload it to your quest submissions.
 Upload the link to your public GitHub repository.
 #### ANSWER:
 <a href=https://github.com/SolomonFoskaay/beginner-emerald-dapp>https://github.com/SolomonFoskaay/beginner-emerald-dapp</a>
