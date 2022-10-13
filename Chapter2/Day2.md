@@ -9,6 +9,7 @@ Change the color of "Emerald DApp" to whatever color you want
 #### ANSWER: 
 I changed the color of "Emerald DApp" to BLUE
 
+<br>
 <hr>
 <br>
 
@@ -16,7 +17,7 @@ I changed the color of "Emerald DApp" to BLUE
 Change the font size of the title
 #### ANSWER: 
 
-
+<br>
 <hr>
 <br>
 
@@ -26,6 +27,7 @@ Change the "Emerald DApp" link to a different link (this means messing with the 
 I changed the "Emerald DApp" link my public github repo for this course, which is 
 https://github.com/SolomonFoskaay/beginner-emerald-dapp
 
+<br>
 <hr>
 <br>
   
@@ -34,6 +36,7 @@ There are two parts. Inside of your <main> tag, add a <p> tag and put whatever t
 #### ANSWER:
 I put text - "Am Learning Cadence dApp Development At Emerald DAO"
 
+<br>
 <hr>
 <br>
   
@@ -42,12 +45,14 @@ Go to the .main class and add this line: flex-direction: column. Watch what it d
 #### ANSWER:
 <a href=https://github.com/SolomonFoskaay/beginner-emerald-dapp target=_blank>https://github.com/SolomonFoskaay/beginner-emerald-dapp</a>
 
+<br>
 <hr>
-<br>  
+<br>
   
 #### QUESTION 5: 
 Take a screenshot of your changes (both the code and the result) and upload it to your quests
 #### ANSWER:
+  
 CODE:
   
   <a href=https://github.com/SolomonFoskaay/beginner-emerald-dapp target=_blank>https://github.com/SolomonFoskaay/beginner-emerald-dapp</a>
