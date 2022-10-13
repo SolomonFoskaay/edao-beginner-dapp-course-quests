@@ -16,6 +16,7 @@ I changed the color of "Emerald DApp" to BLUE
 #### QUESTION 2: 
 Change the font size of the title
 #### ANSWER: 
+I changed the font size of the title from 50px to 80px
 
 <br>
 <hr>
@@ -24,7 +25,7 @@ Change the font size of the title
 #### QUESTION 3: 
 Change the "Emerald DApp" link to a different link (this means messing with the <a> tag)
 #### ANSWER:
-I changed the "Emerald DApp" link my public github repo for this course, which is 
+I changed the "Emerald DApp" link to my public github repo for this course, which is 
 https://github.com/SolomonFoskaay/beginner-emerald-dapp
 
 <br>
@@ -34,7 +35,7 @@ https://github.com/SolomonFoskaay/beginner-emerald-dapp
 #### QUESTION 4A: 
 There are two parts. Inside of your <main> tag, add a <p> tag and put whatever text you want in it.
 #### ANSWER:
-I put text - "Am Learning Cadence dApp Development At Emerald DAO"
+I put text - "Foskaay Is Learning Cadence dApp Development For Flow Blockchain At Emerald DAO"
 
 <br>
 <hr>
@@ -43,7 +44,7 @@ I put text - "Am Learning Cadence dApp Development At Emerald DAO"
 #### QUESTION 4B: 
 Go to the .main class and add this line: flex-direction: column. Watch what it does!
 #### ANSWER:
-<a href=https://github.com/SolomonFoskaay/beginner-emerald-dapp target=_blank>https://github.com/SolomonFoskaay/beginner-emerald-dapp</a>
+It help to break the newly added text into a new line of its own by creating columns.
 
 <br>
 <hr>
@@ -53,11 +54,17 @@ Go to the .main class and add this line: flex-direction: column. Watch what it d
 Take a screenshot of your changes (both the code and the result) and upload it to your quests
 #### ANSWER:
   
-CODE:
+CODE (CSS - home.module.css):
   
   <a href=https://github.com/SolomonFoskaay/beginner-emerald-dapp target=_blank>https://github.com/SolomonFoskaay/beginner-emerald-dapp</a>
 
-  <br> 
+<br> 
+  
+CODE (HTML - index.js):
+  
+  <a href=https://github.com/SolomonFoskaay/beginner-emerald-dapp target=_blank>https://github.com/SolomonFoskaay/beginner-emerald-dapp</a>
+
+<br> 
   
 FRONTEND RESULT:
   
