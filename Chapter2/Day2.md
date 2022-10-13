@@ -56,16 +56,16 @@ Take a screenshot of your changes (both the code and the result) and upload it t
   
 CODE (CSS - home.module.css):
   
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day1a-Nextjs-Project-Running.png" width="95%" height="75%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day2a-CSS-code.png" width="95%" height="75%">
 
 <br> 
   
 CODE (HTML - index.js):
   
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day1a-Nextjs-Project-Running.png" width="95%" height="75%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day2b-HTML-code.png" width="95%" height="75%">
 
 <br> 
   
 FRONTEND RESULT:
   
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day1a-Nextjs-Project-Running.png" width="95%" height="75%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day2c-Home.png" width="95%" height="75%">
