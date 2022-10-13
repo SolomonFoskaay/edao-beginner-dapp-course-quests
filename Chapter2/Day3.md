@@ -13,7 +13,7 @@ In this part, we will be adding another button and changing up some styling.
 - In ./styles/Home.module.css, add a new style for the "flex" class, and inside of it, add one line: display: flex.
 - Your page should now look like this:
 #### ANSWER: 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day2c-Home.png" width="95%" height="75%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day3a-Home.png" width="95%" height="75%">
 
 <br>
 <hr>
@@ -26,7 +26,7 @@ Now we're going to add an action to your new button.
 - Make it console.log "Goodbye"
 - To submit your quests, take a picture of both the screen and the console logs in the developer console.
 #### ANSWER: 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day2c-Home.png" width="95%" height="75%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day3b-Console.png" width="95%" height="75%">
 
 
 
