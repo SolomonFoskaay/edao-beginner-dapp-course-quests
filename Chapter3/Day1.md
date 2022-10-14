@@ -1,7 +1,7 @@
 ## CHAPTER 3
 
 ### DAY 1
-Today, we will split the Quests into two different parts.
+For todays quest, please load up a new Flow playground by going to https://play.onflow.org just like we did in this lesson. You will use that for writing your code.
 
 
 #### QUESTION 1: 
