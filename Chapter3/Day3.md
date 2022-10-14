@@ -1,60 +1,58 @@
 ## CHAPTER 3
 
 ### DAY 3
-For todays quest, please load up a new Flow playground by going to https://play.onflow.org just like we did in this lesson. You will use that for writing your code.
+
 
 
 #### QUESTION 1: 
-Explain why we wouldn't call changeGreeting in a script.
+Create a new smart contract in Cadence that has at least the following two things:
+- A variable to hold a value (like a number or a piece of text)
+- A function to change that variable
+
+After, deploy that contract to the same testnet account you generated today.
+
 #### ANSWER: 
-We wouldn't call changeGreeting in a script because it will change data on the Blockchain which script can not do since it can only read from the Blockchain
+
 
 <br>
 <hr>
 <br>
 
 #### QUESTION 2: 
-What does the AuthAccount mean in the prepare phase of the transaction?
+Send a screenshot of you reading the variable from your new contract using the Flow CLI
 #### ANSWER: 
-AuthAccount means requesting approval from address owner to access the account data/storage to be able to process transaction.
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day2a-Contract.png" width="100%" height="100%">
 
 <br>
 <hr>
 <br>
 
 #### QUESTION 3: 
-What is the difference between the prepare phase and the execute phase in the transaction?
+Send a screenshot of you changing the variable from your new contract using the Flow CLI
 #### ANSWER: 
-The difference between them is that prepare phase gain access to AuthAccount, then pass it down to execute phase where transaction can be executed
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day2a-Contract.png" width="100%" height="100%">
 
 <br>
 <hr>
 <br>
 
 #### QUESTION 4: 
-This is the hardest quest so far, so if it takes you some time, do not worry! I can help you in the Discord if you have questions.
-
-1. Add two new things inside your contract:
-
-- A variable named myNumber that has type Int (set it to 0 when the contract is deployed)
-- A function named updateMyNumber that takes in a new number named newNumber as a parameter that has type Int and updates myNumber to be newNumber
+Send a screenshot of you reading your changed variable from your new contract using the Flow CLI
 
 #### ANSWER: 
 <img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day2a-Contract.png" width="100%" height="100%">
 
-2. Add a script that reads myNumber from the contract
+<br>
+<hr>
+<br>
+
+#### QUESTION 5: 
+Go to https://flow-view-source.com/testnet/. Where it says "Account", paste in the Flow address you generated and click "Go". On the left hand side, you should see your "HelloWorld" contract and your new contract. Isn't it so cool to see them live on Testnet? Then, send the URL to the page.
+- EXAMPLE: https://flow-view-source.com/testnet/account/0x90250c4359cebac7/
 
 #### ANSWER: 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day2b-Script.png" width="100%" height="100%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day2a-Contract.png" width="100%" height="100%">
 
-
-3. Add a transaction that takes in a parameter named myNewNumber and passes it into the updateMyNumber function. Verify that your number changed by running the script again.
-#### ANSWER: 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day2c1-Transaction.png" width="100%" height="100%">
-
-Number updated:
-
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day2c2-Script.png" width="100%" height="100%">
 
 
   
