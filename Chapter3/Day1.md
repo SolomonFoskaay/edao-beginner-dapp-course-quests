@@ -7,7 +7,7 @@ For todays quest, please load up a new Flow playground by going to https://play.
 #### QUESTION 1: 
 Deploy a contract to account 0x03 called "JacobTucker". Inside that contract, declare a constant variable named is, and make it have type String. Initialize it to "the best" when your contract gets deployed.
 #### ANSWER: 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day1a-contract-0x03.png" width="95%" height="75%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day1a-contract-0x03.png" width="100%" height="100%">
 
 <br>
 <hr>
