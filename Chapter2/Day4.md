@@ -4,7 +4,7 @@
 
 
 
-#### QUESTION 1: 
+#### QUESTIONS: 
 1. Change the printHello function to be called runTransaction.
 2. Change the "Hello" text inside the button to "Run Transaction".
 3. Inside the runTransaction function, add some code to console log your newGreeting variable to the developer console.
