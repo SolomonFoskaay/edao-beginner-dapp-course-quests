@@ -7,7 +7,7 @@ For todays quest, please load up a new Flow playground by going to https://play.
 #### QUESTION 1: 
 Explain why we wouldn't call changeGreeting in a script.
 #### ANSWER: 
-We couldn't call change greeting in a script because it will change data on the Blockchain which script can not do since it can only read from the Blockchain
+We wouldn't call change greeting in a script because it will change data on the Blockchain which script can not do since it can only read from the Blockchain
 
 <br>
 <hr>
