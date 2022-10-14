@@ -34,17 +34,27 @@ The difference between them is that prepare phase gain access to AuthAccount, th
 #### QUESTION 4: 
 This is the hardest quest so far, so if it takes you some time, do not worry! I can help you in the Discord if you have questions.
 
-Add two new things inside your contract:
+1. Add two new things inside your contract:
 
 - A variable named myNumber that has type Int (set it to 0 when the contract is deployed)
 - A function named updateMyNumber that takes in a new number named newNumber as a parameter that has type Int and updates myNumber to be newNumber
-- Add a script that reads myNumber from the contract
 
-- Add a transaction that takes in a parameter named myNewNumber and passes it into the updateMyNumber function. Verify that your number changed by running the script again.
 #### ANSWER: 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day1b-Script.png" width="100%" height="100%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day2a-Contract.png" width="100%" height="100%">
+
+2. Add a script that reads myNumber from the contract
+
+#### ANSWER: 
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day2b-Script.png" width="100%" height="100%">
 
 
+3. Add a transaction that takes in a parameter named myNewNumber and passes it into the updateMyNumber function. Verify that your number changed by running the script again.
+#### ANSWER: 
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day2c1-Transaction.png" width="100%" height="100%">
+
+Number updated:
+
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day2c2-Script.png" width="100%" height="100%">
 
 
   
