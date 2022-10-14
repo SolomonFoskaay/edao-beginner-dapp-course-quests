@@ -5,28 +5,23 @@ Today, we will split the Quests into two different parts.
 
 
 #### QUESTION 1: 
-In this part, we will be adding another button and changing up some styling.
-- Wrap the <button> tag we added inside of a <div>. 
-- Add a className called styles.flex to that <div>. 
-- Make sure the <button> is inside of it.
-- Then, add another <button> inside the <div> tag and put "Goodbye" inside of it.
-- In ./styles/Home.module.css, add a new style for the "flex" class, and inside of it, add one line: display: flex.
-- Your page should now look like this:
+Deploy a contract to account 0x03 called "JacobTucker". Inside that contract, declare a constant variable named is, and make it have type String. Initialize it to "the best" when your contract gets deployed.
 #### ANSWER: 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day3a-Home.png" width="95%" height="75%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day1a-contract-0x03.png" width="95%" height="75%">
 
 <br>
 <hr>
 <br>
 
 #### QUESTION 2: 
-Now we're going to add an action to your new button.
-- To your second button, add an onClick handler and call a function named printGoodbye.
-- Define a new function called printGoodbye under the printHello function
-- Make it console.log "Goodbye"
-- To submit your quests, take a picture of both the screen and the console logs in the developer console.
+Check that your variable is actually equals "the best" by executing a script to read that variable. Include a screenshot of the output.
+
+It's so awesome that I get to make these quests. I love this.
+
+Anyways, please remember to store your answers in some way so I can review them if you submit them to me. Good luck!
+
 #### ANSWER: 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch2Day3b-Console.png" width="95%" height="75%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day1b-Script.png" width="95%" height="75%">
 
 
 
