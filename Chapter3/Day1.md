@@ -21,7 +21,7 @@ It's so awesome that I get to make these quests. I love this.
 Anyways, please remember to store your answers in some way so I can review them if you submit them to me. Good luck!
 
 #### ANSWER: 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day1b-Script.png" width="95%" height="75%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day1b-Script.png" width="100%" height="100%">
 
 
 
