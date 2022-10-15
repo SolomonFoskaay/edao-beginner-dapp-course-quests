@@ -50,7 +50,7 @@ In addition, it does the work of allowing user login/logout in our dApp via Flow
 What does our useEffect do?
 
 #### ANSWER: 
-UseEffect is a react function which runs a set of code in it everytime a condition set inside it [] is fulfilled. In our dApp case it is empty, which means at every refresh of the page, it triggers useEffect to run the code block in its {} which is fcl.currentUser.subscribe(setUser).
+UseEffect is a react function which runs a set of code in it everytime a condition set inside it [ ] is fulfilled. In our dApp case it is empty, which means at every refresh of the page, it triggers useEffect to run the code block in its { } which is fcl.currentUser.subscribe(setUser).
 
 <br>
 <hr>
@@ -60,7 +60,7 @@ UseEffect is a react function which runs a set of code in it everytime a conditi
 How do we import FCL?
 
 #### ANSWER: 
-We import FCL using the folling line of code in our index.js:
+We import FCL using the following line of code in our index.js:
 ~~~cadence
 import * as fcl from "@onflow/fcl";
 ~~~
