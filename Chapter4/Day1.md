@@ -12,13 +12,13 @@ In Word:
 
 We get the address of the users after user successfully approve login through their wallet like Blockto. The user authAccount access details received via Blockto is passed and saved in the dApp variable we declared named "User".
 
-From the "User" variable, we can check for things like, is user loggedin? If YES, then check the wallet details logged in with, which contains details like the address, storage and more. From there we display the address (with actually replaces the Login button text).
+From the "User" variable, we can check for things like, is user loggedin? If YES, then check the wallet details logged in with, which contains details like the address, storage and more. From there we display the address (which actually replaces the Login button text).
 
 But, If user is not logged-in, our user variable is empty and so the button text have to show default login text.
 
 
 In Code:
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day3a-Deployed-Contract.png" width="100%" height="100%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch4Day1a-Code-wallet.png" width="100%" height="100%">
 
 <br>
 <hr>
