@@ -1,15 +1,11 @@
 ## CHAPTER 4
 
 ### DAY 1
-
+Feel free to answer in a language you're most comfortable in.
 
 
 #### QUESTION 1: 
-Create a new smart contract in Cadence that has at least the following two things:
-- A variable to hold a value (like a number or a piece of text)
-- A function to change that variable
-
-After, deploy that contract to the same testnet account you generated today.
+How did we get the address of the user? Please explain in words and then in code.
 
 #### ANSWER: 
 Contract named "HelloWeb3" successfully deployed to testnet as seen in the screenshot below:
@@ -21,7 +17,7 @@ Contract named "HelloWeb3" successfully deployed to testnet as seen in the scree
 <br>
 
 #### QUESTION 2: 
-Send a screenshot of you reading the variable from your new contract using the Flow CLI
+What do fcl.authenticate and fcl.unauthenticate do?
 #### ANSWER: 
 I was able to use Script to successfully read the variable "myNumber" from the deployed "HelloWeb3" contract on testnet as seen in the screenshot below:
 
@@ -32,7 +28,7 @@ I was able to use Script to successfully read the variable "myNumber" from the d
 <br>
 
 #### QUESTION 3: 
-Send a screenshot of you changing the variable from your new contract using the Flow CLI
+Why did we make a config.js file? What does it do?
 #### ANSWER: 
 I used "Transaction" to successfully changed the variable "myNumber" from the deployed "HelloWeb3" contract on testnet (from 0 to 365) as seen in the screenshot below
 
@@ -43,7 +39,7 @@ I used "Transaction" to successfully changed the variable "myNumber" from the de
 <br>
 
 #### QUESTION 4: 
-Send a screenshot of you reading your changed variable from your new contract using the Flow CLI
+What does our useEffect do?
 
 #### ANSWER: 
 Below is a screenshot of me reading the changed variable from 0 to 365 using the Flow CLI
@@ -55,8 +51,17 @@ Below is a screenshot of me reading the changed variable from 0 to 365 using the
 <br>
 
 #### QUESTION 5: 
-Go to https://flow-view-source.com/testnet/. Where it says "Account", paste in the Flow address you generated and click "Go". On the left hand side, you should see your "HelloWorld" contract and your new contract. Isn't it so cool to see them live on Testnet? Then, send the URL to the page.
-- EXAMPLE: https://flow-view-source.com/testnet/account/0x90250c4359cebac7/
+How do we import FCL?
+
+#### ANSWER: 
+Here is the link: https://flow-view-source.com/testnet/account/0xb3e2d05cf2cdb97a
+
+<br>
+<hr>
+<br>
+
+#### QUESTION 5: 
+What does fcl.currentUser.subscribe(setUser); do?
 
 #### ANSWER: 
 Here is the link: https://flow-view-source.com/testnet/account/0xb3e2d05cf2cdb97a
