@@ -1,6 +1,6 @@
 ## CHAPTER 4
 
-### DAY 1
+### DAY 2
 You have a lot of tools under your belt now, in fact much more than you think you do. Let's see what you're capable of...
 
 
