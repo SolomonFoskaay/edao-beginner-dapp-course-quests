@@ -26,9 +26,18 @@ I deployed a contract called SimpleTest to an account with an address of 0x6c0d5
 
 Submit all the code you used to call the script, and the result of the script.
 #### ANSWER: 
-fcl.authenticate is use to login user
+Smart contract number variable value uncovered as magic number below:
 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch4Day1a-Code-wallet.png" width="100%" height="100%">
+
+
+https://user-images.githubusercontent.com/83863629/195992611-e9b20f90-71e7-495b-9676-cf59e89ffcd6.mp4
+
+
+  
+
+ Source code used to create above is:
+~~~cadence
+~~~
 
 <br>
 <hr>
