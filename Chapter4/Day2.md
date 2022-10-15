@@ -15,7 +15,7 @@ Instead of console logging the result after the script executes, I want you to:
 #### ANSWER: 
 Done as seen below:
 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch4Day1a-Code-wallet.png" width="100%" height="100%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch4Day2a-Home-Goodbye-Text.png" width="100%" height="100%">
 
 <br>
 <hr>
