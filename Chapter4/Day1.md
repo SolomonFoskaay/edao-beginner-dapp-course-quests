@@ -8,8 +8,16 @@ Feel free to answer in a language you're most comfortable in.
 How did we get the address of the user? Please explain in words and then in code.
 
 #### ANSWER: 
-Contract named "HelloWeb3" successfully deployed to testnet as seen in the screenshot below:
+In Word:
 
+We get the address of the users after user successfully approve login through their wallet like Blockto. The user authAccount access details received via Blockto is passed and saved in the dApp variable we declared named "User".
+
+From the "User" variable, we can check for things like, is user loggedin? If YES, then check the wallet details logged in with, which contains details like the address, storage and more. From there we display the address (with actually replaces the Login button text).
+
+But, If user is not logged-in, our user variable is empty and so the button text have to show default login text.
+
+
+In Code:
 <img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day3a-Deployed-Contract.png" width="100%" height="100%">
 
 <br>
@@ -19,9 +27,9 @@ Contract named "HelloWeb3" successfully deployed to testnet as seen in the scree
 #### QUESTION 2: 
 What do fcl.authenticate and fcl.unauthenticate do?
 #### ANSWER: 
-I was able to use Script to successfully read the variable "myNumber" from the deployed "HelloWeb3" contract on testnet as seen in the screenshot below:
+fcl.authenticate is use to login user
 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day3b-Script-0.png" width="100%" height="100%">
+fcl.unauthenticate is use to logout user
 
 <br>
 <hr>
@@ -30,9 +38,9 @@ I was able to use Script to successfully read the variable "myNumber" from the d
 #### QUESTION 3: 
 Why did we make a config.js file? What does it do?
 #### ANSWER: 
-I used "Transaction" to successfully changed the variable "myNumber" from the deployed "HelloWeb3" contract on testnet (from 0 to 365) as seen in the screenshot below
+We make the config.js file to connect our App to the Blockchain which turn it to a dApp
 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day3c-Transaction-check.png" width="100%" height="100%">
+In addition, it does the work of allowing user login/logout in our dApp via Flow Client Discovery using integrated wallets like Blockto
 
 <br>
 <hr>
@@ -42,9 +50,7 @@ I used "Transaction" to successfully changed the variable "myNumber" from the de
 What does our useEffect do?
 
 #### ANSWER: 
-Below is a screenshot of me reading the changed variable from 0 to 365 using the Flow CLI
-
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch3Day3d-Script-365.png" width="100%" height="100%">
+UseEffect is a react function which runs a set of code in it everytime a condition set inside it [] is fulfilled. In our dApp case it is empty, which means at every refresh of the page, it triggers useEffect to run the code block in its {} which is fcl.currentUser.subscribe(setUser).
 
 <br>
 <hr>
@@ -54,17 +60,22 @@ Below is a screenshot of me reading the changed variable from 0 to 365 using the
 How do we import FCL?
 
 #### ANSWER: 
-Here is the link: https://flow-view-source.com/testnet/account/0xb3e2d05cf2cdb97a
+We import FCL using the folling line of code in our index.js:
+~~~cadence
+import * as fcl from "@onflow/fcl";
+~~~
 
 <br>
 <hr>
 <br>
 
-#### QUESTION 5: 
+#### QUESTION 6: 
 What does fcl.currentUser.subscribe(setUser); do?
 
 #### ANSWER: 
-Here is the link: https://flow-view-source.com/testnet/account/0xb3e2d05cf2cdb97a
+fcl.currentUser.subscribe(setUser); do help preserve state of variable (in our case, the "user" variable) consistently.
+
+For example, if a use login into our dApp with multiple pages, then scroll to another page within the dApp, normally the user might be logged out because the variable state would also changed back to logged out. To avoid this frustrating issue, when combined with useEffect, it help keep the variable state as expected. So, even if user navigate and refresh pages multiple times without logging out, they remain loggedin too as long as useEffect runs our fcl.currentUser.subscribe(setUser);. 
 
 
 
