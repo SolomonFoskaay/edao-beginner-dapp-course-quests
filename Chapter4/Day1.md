@@ -60,7 +60,7 @@ UseEffect is a react function which runs a set of code in it everytime a conditi
 How do we import FCL?
 
 #### ANSWER: 
-We import FCL using the following line of code in our index.js:
+We import FCL using the following line of code in our Nav.jsx to enable us call functions to login/logout user in our dApp:
 ~~~cadence
 import * as fcl from "@onflow/fcl";
 ~~~
