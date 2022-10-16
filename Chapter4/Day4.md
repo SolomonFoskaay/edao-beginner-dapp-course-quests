@@ -1,7 +1,7 @@
 ## CHAPTER 4
 
 ### DAY 4
-You have a lot of tools under your belt now, in fact much more than you think you do. Let's see what you're capable of...
+There are two lovely quests for today.
 
 
 #### QUESTION 1: 
