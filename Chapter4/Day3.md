@@ -9,6 +9,10 @@ Write a function that executes a script with all the Cadence types that we revie
 #### ANSWER: 
 Done as seen below:
 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch4Day2a-Home-Goodbye-Text.png" width="100%" height="100%">
+
+
+
+https://user-images.githubusercontent.com/83863629/196029197-1b659dd2-e080-496b-812a-a06c9487c3cb.mp4
+
 
 
