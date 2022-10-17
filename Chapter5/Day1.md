@@ -7,7 +7,7 @@ We have officially completed our Emerald DApp. The only remaining step is to dep
 #### QUESTION 1: 
 List all the possible transaction status codes and what each of them mean.
 #### ANSWER: 
-Done as seen below:
+Done as seen below (as seen on flow documentation):
 
 <img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch5Day1a-Status-Code-For-Transaction.png" width="100%" height="100%">
 
