@@ -55,7 +55,7 @@ Make at least 3 changes to the styling of the application. It can be anything (p
 #### ANSWER: 
 3 simple changes below (lazzzzzzzzzy me..lol):
 
-<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch4Day2a-Home-Goodbye-Text.png" width="100%" height="100%">
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch5Day1b-Style-Changes.png" width="100%" height="100%">
 
 
 
