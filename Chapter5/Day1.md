@@ -9,6 +9,8 @@ List all the possible transaction status codes and what each of them mean.
 #### ANSWER: 
 Done as seen below:
 
+<img src="https://github.com/SolomonFoskaay/edao-beginner-dapp-course-quests/blob/main/Media/Screenshots/edao-beginner-dapp-course-Ch5Day1a-Status-Code-For-Transaction.png" width="100%" height="100%">
+
 
 <br>
 <hr>
